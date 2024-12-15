@@ -2,9 +2,9 @@ import { Project } from "@/types";
 
 export const projects: Project[] = [
   {
-    title: "My First Domain",
+    title: "Small Store",
     description:
-      "A personal portfolio website showcasing my projects and skills, built with modern web technologies.",
+      "This is a simple and cleanly designed web application hosted on Netlify, possibly created as a learning project. The website likely demonstrates basic front-end web development skills, such as HTML, CSS, and JavaScript, and could include features like Home Page with introductory content.Basic navigation and layout for showcasing different sections.Interactive elements or components (e.g., buttons, forms, or animations).Potential use of frameworks or libraries like React, Tailwind, or Bootstrap.",
     image:
       "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=800&h=500",
     technologies: ["React", "TypeScript", "Tailwind CSS", "Vite"],
@@ -12,12 +12,13 @@ export const projects: Project[] = [
     live: "https://my-first-domain-v2.netlify.app/",
   },
   {
-    title: "Project 2",
-    description: "A brief description of your second project",
+    title: "Compony Page",
+    description:
+      "This web project, hosted on GitHub Pages, showcases a special design concept with a focus on creativity and visual appeal. It may highlight modern web design trends, such as: Stylized UI/UX: Engaging user interface elements like animations, hover effects, or custom layouts. Responsive Design: A layout optimized for various screen sizes, ensuring accessibility across devices. Thematic Presentation: Possibly tailored for a specific purpose, such as a product showcase, portfolio, or experimental design.",
     image:
       "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?auto=format&fit=crop&w=800&h=500",
-    technologies: ["TypeScript", "Next.js", "Tailwind"],
-    github: "https://diab-tech.github.io/special-design/",
+    technologies: ["JavaScript", "HTML", "CSS"],
+    github: "https://github.com/diab-tech/special-design",
     live: "https://diab-tech.github.io/special-design/",
   },
 ];
