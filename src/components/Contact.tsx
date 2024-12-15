@@ -32,7 +32,7 @@ export function Contact() {
                   <div>
                     <p className="font-medium">Email</p>
                     <p className="text-sm text-gray-500">
-                      your.email@example.com
+                      shaban.mohamed9779@gmail.com
                     </p>
                   </div>
                 </a>
@@ -48,7 +48,7 @@ export function Contact() {
                   </div>
                   <div>
                     <p className="font-medium">GitHub</p>
-                    <p className="text-sm text-gray-500">@yourusername</p>
+                    <p className="text-sm text-gray-500">@diab-tech</p>
                   </div>
                 </a>
 
@@ -63,7 +63,7 @@ export function Contact() {
                   </div>
                   <div>
                     <p className="font-medium">LinkedIn</p>
-                    <p className="text-sm text-gray-500">in/yourusername</p>
+                    <p className="text-sm text-gray-500">Shaban Diab</p>
                   </div>
                 </a>
               </div>
