@@ -17,7 +17,7 @@ export const projects: Project[] = [
     image:
       "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?auto=format&fit=crop&w=800&h=500",
     technologies: ["TypeScript", "Next.js", "Tailwind"],
-    github: "https://github.com/diab-tech/project2",
+    github: "https://diab-tech.github.io/special-design/",
     live: "https://diab-tech.github.io/special-design/",
   },
 ];
