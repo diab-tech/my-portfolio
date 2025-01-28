@@ -15,7 +15,7 @@ function App() {
       </main>
       <footer className="bg-gray-900 text-white py-8">
         <div className="max-w-6xl mx-auto px-4 text-center">
-          <p>© {new Date().getFullYear()} Your Name. All rights reserved.</p>
+          <p>© {new Date().getFullYear()} Shaban_Diab. All rights reserved.</p>
         </div>
       </footer>
     </div>
